@@ -24,19 +24,19 @@ app.get("/users", (req, res) => {
     res.json([{
             "id": 1,
             "firstName": "Bob",
-            "lastname": "Smith",
+            "lastName": "Smith",
             "email": "bob@gmail.com"
         },
         {
             "id": 2,
             "firstName": "Tammy",
-            "lastname": "Norton",
+            "lastName": "Norton",
             "email": "tnorton@yahoo.com"
         },
         {
             "id": 3,
             "firstName": "Tina",
-            "lastname": "Lee",
+            "lastName": "Lee",
             "email": "lee.tin@hotmail.com"
         }
     ])
