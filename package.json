@@ -23,6 +23,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "faker": "^4.1.0",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
@@ -44,7 +45,7 @@
     "extract-text-webpack-plugin": "1.0.1",
     "html-webpack-plugin": "2.22.0",
     "jsdom": "9.8.0",
-    "json-schema-faker": "0.3.6",
+    "json-schema-faker": "^0.4.7",
     "json-server": "0.8.22",
     "localtunnel": "^1.9.0",
     "mocha": "^5.2.0",
