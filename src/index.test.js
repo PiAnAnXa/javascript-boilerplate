@@ -15,6 +15,6 @@ describe("index.html", () => {
         const h1 = dom.window.document.getElementsByTagName('h1')[0];
         expect(h1.innerHTML).to.equal('Users');
         done();
-        window.close();
+        dom.close();
     });
 });
