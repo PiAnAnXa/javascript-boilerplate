@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 22840456,
+      "firstName": "Randall",
+      "lastName": "Bahringer",
+      "email": "Eddie.Kiehn@hotmail.com"
+    },
+    {
+      "id": 42193703,
+      "firstName": "Davonte",
+      "lastName": "Kilback",
+      "email": "Susie98@yahoo.com"
+    },
+    {
+      "id": 49831023,
+      "firstName": "Kendall",
+      "lastName": "Yundt",
+      "email": "Sim_Kshlerin22@yahoo.com"
+    },
+    {
+      "id": 34650803,
+      "firstName": "Ruben",
+      "lastName": "Bauch",
+      "email": "Kaylie_VonRueden76@yahoo.com"
+    },
+    {
+      "id": 58678002,
+      "firstName": "Omer",
+      "lastName": "Gleichner",
+      "email": "Eda.Gerhold@hotmail.com"
+    }
+  ]
+}
