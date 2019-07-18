@@ -45,9 +45,9 @@ Check code on typos and
 
 * ES Lint
 
-## Testing and Continiues Integration
+## Testing and Continuous Integration
 
-### Descissions
+### Descisions
 
 1. Testing framework
 1. Assertion library
@@ -70,7 +70,7 @@ Interaction between modules
 
 Automate interactions with UI
 
-## Continius integration
+## Continuous integration
 
 When commiting code, automatically run the code on another machine, asserting it works there too.
 
